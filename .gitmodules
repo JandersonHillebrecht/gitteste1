@@ -1,0 +1,8 @@
+[submodule "submodulo/fs_simul"]
+	path = submodulo/fs_simul
+	url = https://github.com/crmoratelli/fs_simul.git
+	branch = master
+[submodule "fs_simulembarcados"]
+	path = fs_simulembarcados
+	url = https://github.com/JandersonHillebrecht/fs_simulembarcados
+	branch = master
